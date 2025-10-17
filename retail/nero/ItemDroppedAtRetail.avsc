@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "namespace": "com.retail.nero",
+  "name": "ItemDroppedAtRetail",
+  "fields": [
+    { "name": "itemId", "type": "string" },
+    { "name": "timestamp", "type": "long" },
+    { "name": "location", "type": "string" }
+  ]
+}
