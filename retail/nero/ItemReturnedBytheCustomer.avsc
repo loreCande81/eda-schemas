@@ -1,7 +1,7 @@
 {
   "type": "record",
   "namespace": "com.retail.nero",
-  "name": "ItemDroppedAtRetail",
+  "name": "ItemReturnedBytheCustomer",
   "fields": [
     { "name": "itemId", "type": "string" },
     { "name": "timestamp", "type": "long" },
